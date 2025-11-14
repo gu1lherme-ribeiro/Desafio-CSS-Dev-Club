@@ -1,8 +1,8 @@
-*{
+* {
     font-family: "Poppins", sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+
 }
 
 .nav-link {
@@ -19,12 +19,14 @@
     line-height: 100%;
     letter-spacing: 0.88px;
     text-align: center;
+    cursor: pointer;
 }
 .nav-header {
     margin: 42px 47px;
 }
 
 .nav-btn {
+    cursor: pointer;
     width: 67px;
     height: 24px;
     border-radius: 6px;
@@ -41,11 +43,12 @@
     left: 28px;
 }
 
-.hero-bg-img {
-    width: 583.170166015625;
-    height: 374.8206787109375;
-    top: 371.18px;
+.hero-img {
+    position: relative;
+    width: 595px;
+    height: 500px;
+    top: 246px;
     left: 121px;
-
 }
+
 
